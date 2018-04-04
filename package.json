@@ -6,7 +6,6 @@
     "axios": "^0.18.0",
     "classnames": "^2.2.5",
     "history": "^4.7.2",
-    "keymirror": "^0.1.0",
     "ramda": "^0.25.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
@@ -16,8 +15,7 @@
     "react-router-redux": "^5.0.0-alpha.9",
     "redux": "^3.7.2",
     "redux-devtools-extension": "^2.13.2",
-    "redux-thunk": "^2.2.0",
-    "superagent": "^3.8.2"
+    "redux-thunk": "^2.2.0"
   },
   "devDependencies": {
     "react-scripts": "^1.1.4"

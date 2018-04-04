@@ -388,6 +388,13 @@ nav.navbar-inverse .navbar-nav>li>a:hover,nav.navbar-inverse .navbar-nav>li>a.Ac
     text-shadow: 1px 1px 1px rgba(255, 255, 255, 1);
 }
 
+.headerApp {
+    height: 100;
+    padding: 3;
+    margin: 15px;
+    background: #2d6898;
+}
+
 /*!
  * Start Bootstrap - Shop Homepage HTML Template (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.

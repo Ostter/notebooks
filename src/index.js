@@ -33,8 +33,9 @@ ReactDOM.render(
                 <Layout>
                     <Route exact path='/' component={Notebooks}/>
                     <Route path='/categories/:id' component={Notebooks}/>
+                    <Route path='/notebooks/:id' component={Notebook} />
                 </Layout>
-                <Route path='/notebooks/:id' component={Notebook} />
+
             </div>
         </ConnectedRouter>
     </Provider>,

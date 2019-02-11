@@ -28,7 +28,6 @@ const store = createStore(
 
 ReactDOM.render(
   <Provider store={store}>
-    {/* ConnectedRouter will use the store from Provider automatically */}
     <Router history={history}>
       <Switch>
         <Layout>
